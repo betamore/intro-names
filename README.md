@@ -1,6 +1,6 @@
 # intro-names
 ## Hannah L (blue)
-## Aaron B
+## Aaron B (blue)
 ## Lauren
 
 
